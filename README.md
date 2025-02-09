@@ -10,7 +10,7 @@ To run the application locally, follow these steps:
 1. **Clone the repository:**
    Open your terminal and run:
   
-   git clone https://github.com/sksinthu/Navicode-Task.git
+   git clone https://github.com/mathivarman/Navicode-Webtask.git
 
 **Navigate into the project directory:**
 cd My-React-Project
