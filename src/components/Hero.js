@@ -1,5 +1,3 @@
-"use client";
-
 import { ArrowUpRight, MoreHorizontal, LayoutDashboard } from 'lucide-react';
 import { PiWavesBold } from "react-icons/pi";
 import { BiBarChart } from "react-icons/bi";

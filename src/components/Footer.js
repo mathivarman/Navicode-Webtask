@@ -1,5 +1,3 @@
-"use client"
-
 import { ArrowUpRight } from "lucide-react";
 import { GoNorthStar } from "react-icons/go";
 import { HiOutlineViewGrid } from "react-icons/hi";
